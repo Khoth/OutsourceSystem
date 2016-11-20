@@ -51,6 +51,7 @@
     <Compile Include="Dto\Registration\OutsourcerRegistrationResponseDto.cs" />
     <Compile Include="Helpers\AutoMapper.cs" />
     <Compile Include="Helpers\Cryptography.cs" />
+    <Compile Include="Helpers\Extensions\ObjectExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
